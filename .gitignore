@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+/.idea/go-socket.iml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/.gitignore
